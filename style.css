@@ -1,0 +1,21 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#button button{
+    width: 80px;
+    height: 30px;
+}
+
+#clock h2{
+    color: rgb(40, 59, 182);
+    font-size: 45px;
+}
+
+#clock h1{
+    color: rgb(44, 235, 34);
+    
+}
